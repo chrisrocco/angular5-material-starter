@@ -1,16 +1,14 @@
-Hope2go
+Angular5 Application Starter
 =====
-###### A Birmingham-Based advertising initiative to help nonprofits
+###### A solid foundation for large MD Angular applications
 
-## What is Hope To-Go?
-To put it simply, we create To-Go boxes for restaurants. 
-We offer high resolution advertising prints on the sides of our boxes for nonprofit and for profit companies alike.
+## Integrations
+Bootstrap 4 + NgBootstrap
 
-## Our Mission
-Our emphasis is on nonprofit exposure. We dedicate the largest, most visible top of the box to nonprofit advertising. 
-The other 8 sides (including the bottom and internal flaps) are offered to other ads for competitive prices. 
+Angular Material Components
 
-## Distribution
-We donate all our boxes to willing restaurants in an effort to maximize exposure to our clients. 
-We also donate a fixed percentage of proceeds to the nonprofit advertised.
+Docker + Nginx configuration
 
+Remark UI Kit
+
+JWT Authentication Service 
